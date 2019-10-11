@@ -8,7 +8,7 @@ int main(){
   char argsarray[20][100];
 
   //print prompt
-  printf("CS361>");
+  printf("CS361");
   //read line from terminal
   fgets(line, 500, stdin);
 
